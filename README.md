@@ -10,4 +10,4 @@ The source files are located in the [`src`](./src) folder. All web components ar
 
 Find more information on the main repo on [GitHub](https://github.com/muenzpraeger/create-lwc-app).
 
-Updated 6
+Updated 7
